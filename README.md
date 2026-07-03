@@ -28,7 +28,7 @@ We built this website using a "vibe coding" approach. Instead of getting bogged 
 
 We have deployed the website so you can easily try it out! 
 
-Check out the live version here: [Bosla Career Platform](https://alanoud-alotaibi.github.io/Bosla-Career-Platform/)
+Check out the live version here: https://alanoud-alotaibi.github.io/Roaya-Career-Platform/
 
 ## A Note on Security and the AI Chat
 
